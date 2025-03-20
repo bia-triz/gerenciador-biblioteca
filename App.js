@@ -1,7 +1,7 @@
-import App from "./src/screens/login";
+import Login from "./src/screens/login";
 
-export default function App(){
+export default function login(){
   return(
-    <App/>
+    <Login/>
   );
 }
